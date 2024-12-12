@@ -1,0 +1,59 @@
+.navbar{
+    display: flex;
+    justify-content:end;
+
+
+}
+a{  
+    margin-right: 90px;
+    margin-top: 70px;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+
+}
+a:hover{
+    background-color: greenyellow;
+    border-radius: 10px;
+    
+    color: black;    
+}
+body{
+    background-color: black;
+}
+#contactme{
+    padding: 5px;
+    background-color: greenyellow;
+    border-radius: 15px;
+    color: black;
+}
+.logo{
+    color: greenyellow;
+    margin-right: 450px;
+    margin-top: 70px;
+    margin-left: 70px;
+    font-size: 40px;
+    font-style: oblique;
+
+}
+#s{
+    color: white;
+    font-weight: bold;
+    display: flex;
+    font-size: 50px;
+
+}
+#y{
+    color: greenyellow;
+    font-weight: bold;
+    display: flex;
+    font-size: 50px;
+
+
+}
+.intro{
+    padding-left: 300px;
+    padding-top: 100px;
+    color: white;
+}
